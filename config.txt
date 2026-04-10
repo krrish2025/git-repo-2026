@@ -1,1 +1,1 @@
-APP_ENVIRONEMENT=staging
+APP_ENVIRONEMENT=production
